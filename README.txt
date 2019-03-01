@@ -1,3 +1,13 @@
+# AliPayh5 支付宝H5支付demo
+
+可以在方法里，根据业务需求创建订单，去请求AopSdk.php文件
+
+入参：
+WIDout_trade_no 订单id
+WIDsubject 订单名称
+WIDtotal_fee 订单金额（元）
+which_account 收款账号
+
 
 一、免责申明：
 此DEMO仅供参考，实际开发中需要结合具体业务场景修改使用。
